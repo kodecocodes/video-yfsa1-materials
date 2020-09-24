@@ -1,7 +1,4 @@
-# Course name: Materials
-
-> __TODO:__ Create a new repo from this template, create the requisite versions/x.x branch, add the video team with Write access, and update references in this readme as appropriate.
-
+# Your First iOS and SwiftUI App: An App from Scratch: Materials
 
 This repo contains all the downloadable materials and projects associated with the **[VIDEO](https://www.raywenderlich.com/library)** from [raywenderlich.com](https://www.raywenderlich.com).
 
