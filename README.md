@@ -4,6 +4,12 @@ This repo contains all the downloadable materials and projects associated with t
 
 Each edition has its own branch, named `versions/[VERSION]`. The default branch for this repo is for the most recent edition.
 
+## Figma Design
+
+In this course (and the course that follows), you learn how to implement the following design in SwiftUI:
+
+   * [Bull's Eye App Design (made with Figma)](High-Fidelity Design for Bull's Eye (made with Figma): https://www.figma.com/file/3MBMeYd2hP4rajTbHnZL0z/Bullseye?node-id=0%3A1)
+
 ## Release History
 
 | Branch                                                                            | Version | Release Date |
