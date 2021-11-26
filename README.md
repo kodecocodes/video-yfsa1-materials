@@ -4,6 +4,8 @@ This repo contains all the downloadable materials and projects associated with t
 
 Each edition has its own branch, named `versions/[VERSION]`. The default branch for this repo is for the most recent edition.
 
+These materials have been reviewed and are updated as of November, 2021.
+
 ## Figma Design
 
 In this course (and the course that follows), you learn how to implement the following design in SwiftUI:
