@@ -1,6 +1,6 @@
 # Your First iOS & SwiftUI App: An App from Scratch: Materials
 
-This repo contains all the downloadable materials and projects associated with the **[Your First iOS & SwiftUI App: An App from Scratch](https://www.kodec.com/library)** from [Kodeco](https://www.kodeco.com).
+This repo contains all the downloadable materials and projects associated with the **[Your First iOS & SwiftUI App: An App from Scratch](https://www.kodeco.com/37086140-your-first-ios-swiftui-app-an-app-from-scratch)** from [Kodeco](https://www.kodeco.com).
 
 Each edition has its own branch, named `versions/[VERSION]`. The default branch for this repo is for the most recent edition.
 
