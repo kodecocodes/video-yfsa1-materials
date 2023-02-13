@@ -4,7 +4,7 @@ This repo contains all the downloadable materials and projects associated with t
 
 Each edition has its own branch, named `versions/[VERSION]`. The default branch for this repo is for the most recent edition.
 
-These materials have been reviewed and are updated as of Month, Year
+These materials have been reviewed and are updated as of February, 2023.
 
 ## Figma Design
 
@@ -18,4 +18,4 @@ In this course (and the course that follows), you learn how to implement the fol
 | --------------------------------------------------------------------------------- |:-------:|:------------:|
 | [versions/6.0](https://github.com/kodecocodes/video-yfsa1-materials/tree/versions/6.0) | 6.0     | 2020-12-15   |
 | [versions/7.0](https://github.com/kodecocodes/video-yfsa1-materials/tree/versions/7.0) | 7.0     | 2022-01-11   |
-| [versions/8.0](https://github.com/kodecocodes/video-yfsa1-materials/tree/versions/8.0) | 8.0     | YYYY-MM-DD  |
+| [versions/8.0](https://github.com/kodecocodes/video-yfsa1-materials/tree/versions/8.0) | 8.0     | 2023-02-13  |
