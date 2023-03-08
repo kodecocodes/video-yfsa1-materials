@@ -11,6 +11,8 @@ These materials have been reviewed and are updated as of February, 2023.
 In this course (and the course that follows), you learn how to implement the following design in SwiftUI:
 
    * [Bull's Eye App Design (made with Figma)](https://www.figma.com/file/3MBMeYd2hP4rajTbHnZL0z/Bullseye?node-id=0%3A1)
+   
+In order to view the Design tab in this Figma file, you will need to create your own copy. You can either save a local copy and work in the Figma desktop app, or duplicate the linked file to your drafts.
 
 ## Release History
 
